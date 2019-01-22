@@ -1,0 +1,8 @@
+You can find LOD sample data in there, which gives you an idea to implement LOD in 3D Tiles.
+
+After you understand it, you can make LOD tileset by following steps :
+
+Export .obj models with different level of detail.
+Use obj23dtiles convert them to .b3dm.
+Create or modify a tileset.json file follow sample data's tileset.json file.
+I hope this is clear enough.
